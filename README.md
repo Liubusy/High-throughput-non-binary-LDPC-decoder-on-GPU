@@ -17,3 +17,7 @@ And, the source of those codes is below:
 [3] http://perso-etis.ensea.fr/~declercq/graphs.php
 
 [4] Andrade J, Falcao G, Silva V, et al, “FFT-SPA non-binary LDPC decoding on GPU,” in Proc. IEEE ICASSP, 2013, pp. 5099-5103.
+
+The BER performance of the GPU-based decoders is shown in Fig. 1.
+
+![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/edit/master/streams.jpg)
