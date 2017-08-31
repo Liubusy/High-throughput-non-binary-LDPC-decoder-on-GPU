@@ -1,4 +1,4 @@
-# Non-Binary-LDPC-codes
+# Non-Binary-LDPC-codes and their source
 The file 'Codes_AtoF.rar' contains the codes' matrics for the fast non-binary ldpc decoder on gpu. 
 And, the source of those codes is below:
 
@@ -20,4 +20,5 @@ And, the source of those codes is below:
 
 The BER performance of the GPU-based decoders is shown in Fig. 1.
 
-![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/blob/master/BER.fig)
+# BER performance of the proposed GPU-based NB-LDPC decoder
+![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/blob/master/BER.jpg)
