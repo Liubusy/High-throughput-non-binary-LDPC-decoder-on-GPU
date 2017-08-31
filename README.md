@@ -1,13 +1,11 @@
-# Non-Binary-LDPC-codes and their source
+# Non-binary LDPC (NB-LDPC) codes and their sources
 The file 'Codes_AtoF.rar' contains the codes' matrics for the fast non-binary ldpc decoder on gpu. 
-And, the source of those codes is below:
+And, the sources of those codes are below:
 
 1. Code_A is from [1];
-2. Code_B is from [2];
-3. Code_C is from [3];
+2. Code_B and Code_E are from [2];
+3. Code_C and Code_F are from [3];
 4. Code_D is from [4];
-5. Code_E is from [2];
-6. Code_F is from [3];
 
 [1] Short Block Length LDPC Codes for TC Synchronization and Channel Coding, Recommendation for Space Data System Standard, CCSDS
 231.1-O-1, Orange Book, Apr. 2015.
@@ -18,7 +16,5 @@ And, the source of those codes is below:
 
 [4] Andrade J, Falcao G, Silva V, et al, “FFT-SPA non-binary LDPC decoding on GPU,” in Proc. IEEE ICASSP, 2013, pp. 5099-5103.
 
-The BER performance of the GPU-based decoders is shown in Fig. 1.
-
-# BER performance of the proposed GPU-based NB-LDPC decoder
+# BER performance of our GPU-based NB-LDPC decoder
 ![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/blob/master/BER.jpg)
