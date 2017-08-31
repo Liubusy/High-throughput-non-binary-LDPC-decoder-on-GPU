@@ -20,4 +20,4 @@ And, the source of those codes is below:
 
 The BER performance of the GPU-based decoders is shown in Fig. 1.
 
-![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/blob/master/BER.eps)
+![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/blob/master/BER.fig)
