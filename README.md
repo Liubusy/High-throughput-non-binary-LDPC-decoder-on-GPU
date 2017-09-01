@@ -18,4 +18,4 @@ And, the sources of those codes are below:
 
 # BER performance of our NB-LDPC decoder on GPU
 The figure below is the BER performance for our GPU-based NB-LDPC decoder at 5 layered decoding iterations.
-![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/blob/master/BER.png)
+![BER](https://github.com/Liubusy/Non-Binary-LDPC-codes/blob/master/BER.bmp)
