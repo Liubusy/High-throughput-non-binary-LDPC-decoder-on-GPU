@@ -1,6 +1,6 @@
 # Non-binary LDPC (NB-LDPC) codes and their sources
 The file 'Codes_AtoF.rar' contains the codes' matrics for the fast non-binary ldpc decoder on gpu. 
-And, the sources of those codes are below:
+And, the sources of those codes are below (note that all row and colum indices begin with "1" not "0"):
 
 1. Code_A is from [1];
 2. Code_B and Code_E are from [2];
